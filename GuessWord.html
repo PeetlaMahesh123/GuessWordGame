@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Guess the Word Game</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div class="game-box">
+    <h2>Guess the Word</h2>
+
+    <p id="wordDisplay" class="word"></p>
+
+    <input type="text" id="letterInput" maxlength="1" placeholder="Enter a letter">
+    <button onclick="guessLetter()">Guess</button>
+
+    <p id="message"></p>
+    <p>Attempts Left: <span id="attempts"></span></p>
+
+    <button onclick="restartGame()" class="reset-btn">Restart</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
