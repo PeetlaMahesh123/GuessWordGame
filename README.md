@@ -1,5 +1,3 @@
-Here is a **detailed, professional README.md** for your **Word Guess Game** project.
-You can **copy-paste this directly** into your GitHub README file.
 
 ---
 
