@@ -68,17 +68,6 @@ GuessWordGame/
 6. Guess the correct word before attempts run out to win!
 
 ---
-
-## 🚀 Live Demo
-
-👉 **Play the game here:**
-
-```
-https://peetlamahesh123.github.io/GuessWordGame/
-```
-
----
-
 ## 📌 Future Enhancements
 
 * 🔊 Sound effects and animations
