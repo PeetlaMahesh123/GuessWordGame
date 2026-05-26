@@ -26,12 +26,6 @@ The game is simple, lightweight, and runs entirely in the browser without any ex
 
 ## ✨ Features
 
-* 🎲 Random word generation
-* 🔢 Limited number of attempts
-* ⚡ Instant feedback on guesses
-* 🎨 Clean and responsive user interface
-* 🧠 Improves vocabulary and logical thinking
-* 🌐 Runs directly in the browser
 
 ---
 
