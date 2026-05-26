@@ -7,7 +7,6 @@ The **Guess Word Game** is a fun and interactive web-based word puzzle game wher
 
 ---
 ## Live Link of project:
-Link: https://peetlamahesh123.github.io/GuessWordGame/
 
 ---
 ## Final Result
