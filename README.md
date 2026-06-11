@@ -3,7 +3,6 @@
 
 # 🎯 Guess Word Game
 
-The **Guess Word Game** is a fun and interactive web-based word puzzle game where players try to guess a hidden word within a limited number of attempts. The game is designed to improve vocabulary, spelling skills, and logical thinking while providing an engaging user experience.
 
 ---
 ## Live Link of project:
