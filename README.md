@@ -15,7 +15,9 @@ Link: https://peetlamahesh123.github.io/GuessWordGame/
 
 ---
 ## 🕹️ Game Overview
-
+In this game, a random word is selected by the system.
+The player enters guesses, and the game provides instant feedback for each attempt.
+Using this feedback, the player refines their guesses until the correct word is found or the attempts run out.
 
 
 The game is simple, lightweight, and runs entirely in the browser without any external dependencies.
