@@ -11,7 +11,7 @@ Link: https://peetlamahesh123.github.io/GuessWordGame/
 
 ---
 ## Final Result
-<img width="776" height="587" alt="image" src="https://github.com/user-attachments/assets/b90d4f7d-4ad2-4542-919b-c93c69b1afa9" />
+
 
 ---
 ## 🕹️ Game Overview
